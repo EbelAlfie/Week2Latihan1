@@ -16,7 +16,9 @@
     <string name="jari_jari_tabung">Masukan jari-jari alas tabung</string>
     <string name="tinggi_tabung">Masukan tinggi tabung</string>
     <string name="jari_jari_bola">Masukan jari-jari Bola</string>
-    <string name="satuan">\" cm3\"</string>
+    <string name="satuan"> cm3</string>
+    <string name="masukan_tinggi_kerucut">Masukan tinggi kerucut</string>
+    <string name="jari_jari_kerucut">Masukan jari-jari kerucut</string>
     <string-array name="options">
         <item>@string/kubus</item>
         <item>@string/balok</item>

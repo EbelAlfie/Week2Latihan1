@@ -106,6 +106,10 @@ class MainActivity: AppCompatActivity(), AdapterView.OnItemSelectedListener {
                 etInput1.hint = getString(R.string.jari_jari_tabung)
                 etInput2.hint = getString(R.string.tinggi_tabung)
             }
+            getString(R.string.kerucut) -> {
+                etInput1.hint = getString(R.string.jari_jari_kerucut)
+                etInput2.hint = getString(R.string.masukan_tinggi_kerucut)
+            }
             getString(R.string.bola) -> {
                 etInput1.hint = getString(R.string.jari_jari_bola)
             }

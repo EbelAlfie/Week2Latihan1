@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="edittext">
+        <item name="android:paddingStart">@dimen/padding_start</item>
+        <item name="android:layout_margin">@dimen/layout</item>
+        <item name="android:background">@drawable/et_design</item>
+    </style>
+</resources>

@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Week2Latihan1</string>
+    <string name="kalkulator_volume">Kalkulator Volume</string>
+    <string name="kubus">Kubus</string>
+    <string name="masukan_sisi_kubus">Masukan sisi kubus</string>
+    <string name="hitung">Hitung</string>
+    <string name="hasil">Hasil</string>
+    <string name="error_msg_falseinput">Input tidak boleh kosong dan hanya boleh berupa angka</string>
+    <string name="bola">Bola</string>
+    <string name="kerucut">Kerucut</string>
+    <string name="balok">Balok</string>
+    <string name="tabung">Tabung</string>
+    <string name="panjang_balok">Masukan panjang balok</string>
+    <string name="lebar_balok">Masukan lebar balok</string>
+    <string name="tinggi_balok">Masukan tinggi balok</string>
+    <string name="jari_jari_tabung">Masukan jari-jari alas tabung</string>
+    <string name="tinggi_tabung">Masukan tinggi tabung</string>
+    <string name="jari_jari_bola">Masukan jari-jari Bola</string>
+    <string name="satuan">\" cm3\"</string>
+    <string-array name="options">
+        <item>@string/kubus</item>
+        <item>@string/balok</item>
+        <item>@string/tabung</item>
+        <item>@string/kerucut</item>
+        <item>@string/bola</item>
+    </string-array>
+</resources>
